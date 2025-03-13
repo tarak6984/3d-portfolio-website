@@ -2,7 +2,7 @@
 
 <!-- GitHub badges -->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/animated-portfolio-website)
+![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/3d-portfolio-website)
 [![Stars](https://img.shields.io/github/stars/XevenTech/3d-portfolio-website?style=social)](https://github.com/XevenTech/3d-portfolio-website/stargazers)
 [![Fork](https://img.shields.io/github/forks/XevenTech/3d-portfolio-website?style=social)](https://github.com/XevenTech/3d-portfolio-website/forks)
 [![YouTube Video Views](https://img.shields.io/youtube/views/7dWL5GivD8k?style=social)](https://youtu.be/7dWL5GivD8k)
