@@ -289,3 +289,13 @@ possible:
 
 [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
 [LICENSE](https://github.com/XevenTech/3d-portfolio-website/blob/main/LICENSE) for more details.
+
+
+## ▶️ Watch Video Tutorial
+
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/animated-portfolio-website/thumbnail.png?raw=true "Play")](https://youtu.be/7dWL5GivD8k)
+
+
+## ❤ Thank you for reading, here's a cat:
+
+![Cat](https://github.com/XevenTech/xeventech/blob/main/cat.gif?raw=true "Thank You")
