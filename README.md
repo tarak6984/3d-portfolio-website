@@ -293,7 +293,7 @@ possible:
 
 ## ▶️ Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/animated-portfolio-website/thumbnail.png?raw=true "Play")](https://youtu.be/7dWL5GivD8k)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/3d-portfolio-website/thumbnail.png?raw=true "Play")](https://youtu.be/7dWL5GivD8k)
 
 
 ## ❤ Thank you for reading, here's a cat:
