@@ -283,13 +283,9 @@ possible:
 ## 📞 Contact Us
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xeventech-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/company/xeventech)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816)
 
-<!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
 
 ## 📋 License
 
-**Three.js 3D Portfolio** is open source software
 [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
 [LICENSE](https://github.com/XevenTech/3d-portfolio-website/blob/main/LICENSE) for more details.
