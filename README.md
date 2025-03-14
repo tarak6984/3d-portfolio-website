@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/3d-portfolio-website)
 [![Stars](https://img.shields.io/github/stars/XevenTech/3d-portfolio-website?style=social)](https://github.com/XevenTech/3d-portfolio-website/stargazers)
 [![Fork](https://img.shields.io/github/forks/XevenTech/3d-portfolio-website?style=social)](https://github.com/XevenTech/3d-portfolio-website/forks)
-[![YouTube Video Views](https://img.shields.io/youtube/views/7dWL5GivD8k?style=social)](https://youtu.be/7dWL5GivD8k)
+[![YouTube Video Views](https://img.shields.io/youtube/views/uAFUHCpnz3E?style=social)](https://youtu.be/uAFUHCpnz3E)
 
 ![demo](https://github.com/XevenTech/projects_snapshots/blob/main/3d-portfolio-website/3d-portfolio.png?raw=true)
 
@@ -293,7 +293,7 @@ possible:
 
 ## ▶️ Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/3d-portfolio-website/thumbnail.png?raw=true "Play")](https://youtu.be/7dWL5GivD8k)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/3d-portfolio-website/thumbnail.png?raw=true "Play")](https://youtu.be/uAFUHCpnz3E)
 
 
 ## ❤ Thank you for reading, here's a cat:
