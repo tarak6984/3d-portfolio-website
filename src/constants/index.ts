@@ -28,9 +28,8 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
+  
+
   threejs,
 } from "../assets";
 
@@ -125,54 +124,54 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "React.js Developer",
-    companyName: "Starbucks",
+    title: "Customer Support",
+    companyName: "Robi 10 Minute School",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "January 2019 - June 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Assisted customers by resolving inquiries and providing effective solutions through multiple communication channels.",
+      "Collaborated with cross-functional teams, including technical support and content creators, to enhance user experience.",
+      "Managed and maintained customer interactions, ensuring prompt responses and high-quality service.",
+      "Provided feedback and insights to improve support processes and enhance overall customer satisfaction.",
     ],
   },
   {
-    title: "React Native Developer",
-    companyName: "Tesla",
+    title: "Head of Product Management",
+    companyName: "Instant School",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "July 2022 - Feb 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Leading the development and execution of the product strategy for online skill-based courses.",
+      "Collaborating with cross-functional teams, including designers, engineers, and instructors, to create high-quality educational products.",
+      "Conducting market research to identify trends and user needs, ensuring our courses remain competitive and relevant.",
+      "Ensuring seamless user experience by working closely with UX/UI designers and developers.",
     ],
   },
   {
-    title: "Web Developer",
-    companyName: "Shopify",
+    title: "Officer Cadet",
+    companyName: "Bangladesh Naval Academy",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2023 - December 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Undergoing rigorous military and academic training to develop leadership, discipline, and technical skills.",
+      "Participating in naval operations training, including navigation, seamanship, and maritime warfare strategies.",
+      "Collaborating with senior officers and fellow cadets to enhance teamwork and problem-solving abilities.",
+      "Adapting to diverse roles and responsibilities as part of a structured officer training program.",
     ],
   },
   {
-    title: "Full stack Developer",
-    companyName: "Meta",
+    title: "IRays Teknology Ltd",
+    companyName: "Mobile App Developer",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "July 2024 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developing and maintaining mobile applications using Android Studio and other related technologies.",
+      "Implementing responsive and intuitive UI/UX designs to enhance user experience.",
+      "Debugging and troubleshooting issues to improve application stability and reliability.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
@@ -180,95 +179,73 @@ const experiences: TExperience[] = [
 
 const testimonials: TTestimonial[] = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    "testimonial": "Tarak is an exceptional student, always eager to learn and improve. His dedication to web development is truly inspiring.",
+    "name": "Prof. David Miller",
+    "designation": "Instructor",
+    "company": "Introduction to Java Programming, UoPeople",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg"
   },
   {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    "testimonial": "I've seen many students with technical skills, but Tarak stands out because of his problem-solving mindset and attention to detail.",
+    "name": "Dr. Susan Carter",
+    "designation": "Professor",
+    "company": "Technical Writing, UoPeople",
+    "image": "https://randomuser.me/api/portraits/women/12.jpg"
   },
   {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+    "testimonial": "Tarak’s ability to grasp complex sociological concepts and apply them in discussions is commendable. He is a critical thinker with a bright future ahead!",
+    "name": "Dr. Michael Reed",
+    "designation": "Professor",
+    "company": "Sociology 1502-01, UoPeople",
+    "image": "https://randomuser.me/api/portraits/men/15.jpg"
+  }
 ];
+
 
 const projects: TProject[] = [
   {
-    name: "Car Rent",
+    name: "University Website",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform designed for universities to manage courses, faculty, and student interactions efficiently, providing an intuitive interface for seamless communication and organization.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Bootstrap 5",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    sourceCodeLink: "https://github.com/",
+    image: "https://i.postimg.cc/pLzhtY4V/Screenshot-2025-03-31-160532.png",
+    sourceCodeLink: "https://github.com/tarak6984/University-Website.git",
   },
   {
-    name: "Job IT",
+    name: "Travel Website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A travel booking platform that helps users discover destinations, plan trips, and book accommodations seamlessly with an interactive and user-friendly interface.",
     tags: [
       {
-        name: "react",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "JavaScript",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    sourceCodeLink: "https://github.com/",
+    image: "https://i.postimg.cc/ZRc6zF9v/Screenshot-2025-03-31-154325.png",
+    sourceCodeLink: "https://github.com/tarak6984/Travel-Website.git",
   },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    sourceCodeLink: "https://github.com/",
-  },
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };
