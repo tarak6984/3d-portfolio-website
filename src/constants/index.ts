@@ -204,22 +204,28 @@ const testimonials: TTestimonial[] = [
 
 const projects: TProject[] = [
   {
+    name: "HealthCare Management System",
+    description:
+      "A healthcare patient management application that allows patients to register, book, and manage appointments with doctors. Includes admin tools, SMS notifications, and more — built with Next.js, TailwindCSS, and Appwrite.",
+    tags: [
+      { name: "Next.js", color: "blue-text-gradient" },
+      { name: "TypeScript", color: "green-text-gradient" },
+      { name: "TailwindCSS", color: "pink-text-gradient" },
+      { name: "Appwrite", color: "blue-text-gradient" },
+      { name: "Twilio", color: "green-text-gradient" },
+      { name: "Sentry", color: "pink-text-gradient" },
+    ],
+    image: "https://i.postimg.cc/K8xf0M4m/healthcare-banner.png", // placeholder, you can change it
+    sourceCodeLink: "https://github.com/tarak6984/health_care.git",
+  },
+  {
     name: "University Website",
     description:
       "Web-based platform designed for universities to manage courses, faculty, and student interactions efficiently, providing an intuitive interface for seamless communication and organization.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Bootstrap 5",
-        color: "green-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "pink-text-gradient",
-      },
+      { name: "react", color: "blue-text-gradient" },
+      { name: "Bootstrap 5", color: "green-text-gradient" },
+      { name: "CSS", color: "pink-text-gradient" },
     ],
     image: "https://i.postimg.cc/pLzhtY4V/Screenshot-2025-03-31-160532.png",
     sourceCodeLink: "https://github.com/tarak6984/University-Website.git",
@@ -229,23 +235,14 @@ const projects: TProject[] = [
     description:
       "A travel booking platform that helps users discover destinations, plan trips, and book accommodations seamlessly with an interactive and user-friendly interface.",
     tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "pink-text-gradient",
-      },
+      { name: "HTML", color: "blue-text-gradient" },
+      { name: "CSS", color: "green-text-gradient" },
+      { name: "JavaScript", color: "pink-text-gradient" },
     ],
     image: "https://i.postimg.cc/ZRc6zF9v/Screenshot-2025-03-31-154325.png",
     sourceCodeLink: "https://github.com/tarak6984/Travel-Website.git",
   },
-  
 ];
+
 
 export { services, technologies, experiences, testimonials, projects };
