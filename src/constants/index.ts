@@ -215,9 +215,10 @@ const projects: TProject[] = [
       { name: "Twilio", color: "green-text-gradient" },
       { name: "Sentry", color: "pink-text-gradient" },
     ],
-    image: "c:\Users\tarak\OneDrive\Pictures\Screenshots\Screenshot 2025-04-29 230231.png", // placeholder, you can change it
+    image: "https://i.postimg.cc/k48s98vX/Screenshot-2025-04-29-230231.png",
     sourceCodeLink: "https://github.com/tarak6984/health_care.git",
-  },
+  }
+  ,
   {
     name: "University Website",
     description:
