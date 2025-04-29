@@ -215,7 +215,7 @@ const projects: TProject[] = [
       { name: "Twilio", color: "green-text-gradient" },
       { name: "Sentry", color: "pink-text-gradient" },
     ],
-    image: "https://i.postimg.cc/K8xf0M4m/healthcare-banner.png", // placeholder, you can change it
+    image: "c:\Users\tarak\OneDrive\Pictures\Screenshots\Screenshot 2025-04-29 230231.png", // placeholder, you can change it
     sourceCodeLink: "https://github.com/tarak6984/health_care.git",
   },
   {
